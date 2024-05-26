@@ -20,10 +20,11 @@ These designs are intended to create a clear and intuitive user experience, with
 
 ## Links to Designs
 
-- ###Mockup: [https://www.figma.com/design/Xo4WXGh8jEtGwHI0qGBNXF/Untitled?t=93WvqDeiDaMOe2S3-1](#)
-- ###Wireframe: [https://www.figma.com/design/8jUYA2BNWPXFhbIw2mQXBk/Untitled?t=93WvqDeiDaMOe2S3-1](#)
+- **Figma Design**: [View in Figma](https://www.figma.com/design/Xo4WXGh8jEtGwHI0qGBNXF/Untitled?node-id=0-1&t=Ko7WaLJrxJw7NDrr-1)
+
+- **Figma Wireframe**: [View Wireframe in Figma](https://www.figma.com/design/8jUYA2BNWPXFhbIw2mQXBk/Untitled?t=93WvqDeiDaMOe2S3-1)
 
 1![image1](/f1.png)
 2![image2](/f2.png)
-3![image3](/f3.png)
+3![image3](/f3.jpg)
 4![image4](/f4.png)
